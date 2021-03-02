@@ -1,1 +1,1 @@
-gh pages - https://ryabaa.github.io/rsschool-cv-html/
+gh pages - https://ryabaa.github.io/rsschool-cv/
